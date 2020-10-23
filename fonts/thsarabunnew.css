@@ -6,7 +6,6 @@
          url('thsarabunnew-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
@@ -17,7 +16,6 @@
          url('thsarabunnew_bolditalic-webfont.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
-
 }
 
 @font-face {
@@ -28,7 +26,6 @@
          url('thsarabunnew_italic-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
-
 }
 
 @font-face {
@@ -39,7 +36,6 @@
          url('thsarabunnew_bold-webfont.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
-
 }
 
 .thsarabunnew{
