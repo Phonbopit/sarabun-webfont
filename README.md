@@ -3,7 +3,25 @@ TH Sarabun PSK
 
 ออกแบบโดย คุณศุภกิจ เฉลิมลาภ
 
-## Usage
+> Update: เนื่องจากผมดาวน์โหลด font มาใช้ เพื่อทำ custom font ผ่าน CSS ใช้งานบนเว็บไซต์ ตัวลิขสิทธิ์ font เป็นของผู้ออกแบบนะครับ และปัจจุบัน ตัว Font ก็ไปอยู่ใน Google Fonts แล้ว ทำให้ใช้งานได้สะดวกว่าเดิมมาก ไม่จำเป็นต้องไปหาดาวน์โหลด font และกำหนด font face เองแล้ว
+
+## การใช้งาน
+
+#### ผ่าน Google Fonts
+
+- Font Sarabun - Google Fonts ได้เลยครับ https://fonts.google.com/specimen/Sarabun
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
+```
+
+```css
+font-family: 'Sarabun', sans-serif;
+```
+
+#### แบบ CSS Font face.
 
 ```css
 @font-face {
